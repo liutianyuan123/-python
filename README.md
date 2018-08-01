@@ -29,7 +29,9 @@
     `sudo apt-get install sox`
     
 若依赖包出现问题，用户可自行下载 urllib3 和 lxml
+
 `pip install urllib3`
+
 `pip install lxml`
 
 ### 祝你使用愉快。
